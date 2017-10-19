@@ -7,3 +7,10 @@
 * `rake db:setup`
 * `rails s`
 
+-------
+# try routes
+-----
+
+* `localhost:3000/api/v1/employees.json`
+* `localhost:3000/api/v1/employees/1.json`
+
