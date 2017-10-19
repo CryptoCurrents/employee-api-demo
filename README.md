@@ -1,7 +1,7 @@
 # Setup
 ----
 
-• clone this repo
-• `bundle`
-• `rake db:setup`
+* clone this repo
+* `bundle`
+* `rake db:setup`
 
