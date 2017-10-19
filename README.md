@@ -1,5 +1,5 @@
-* Setup
-==================
+*Setup
+----
 
 • clone this repo
 • `bundle`
