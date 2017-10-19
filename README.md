@@ -1,4 +1,4 @@
-*Setup
+# Setup
 ----
 
 • clone this repo
